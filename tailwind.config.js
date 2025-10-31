@@ -43,14 +43,6 @@ module.exports = {
       margin: px0_100,
       spacing: px0_300,
     },
-    fontFamily: {
-      sans: ["var(--font-pretendard)"],
-    },
-    screens: {
-      md: "768px",
-      lg: "1200px",
-      xl: "1920px",
-    },
   },
   plugins: [customUtilities, customVariant],
 };
