@@ -1,1 +1,2 @@
-export { Title } from "@/components/ui/Title";
+export { ExploreBtn } from "@/components/ui/ExploreBtn";
+export { EventCard } from "@/components/ui/EventCard";
